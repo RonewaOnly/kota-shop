@@ -15,7 +15,7 @@ frontend/: Contains the Vue 3 frontend
 
 Setup Instructions
 1. Clone the Repository
-bashCopygit clone https://github.com/yourusername/kota-shop.git
+bashCopygit clone https://github.com/RonewaOnly/kota-shop.git
 cd kota-shop
 2. Backend Setup
 
